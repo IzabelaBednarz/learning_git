@@ -1,4 +1,4 @@
-# lerning_git
+# learning_git
 
 #my first commit
 
